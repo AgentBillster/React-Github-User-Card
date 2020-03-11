@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.mine{
+  border: 1px solid black;
+  width: 100vh;
+  display: flex;
+  margin: auto;
+  border-radius: 15px;
+  align-items: center;
+}
+
+.them{
+  border: 1px solid black;
+  width: 100vh;
+  display: flex;
+  margin: auto;
+  border-radius: 15px;
+  align-items: center;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  display: flex;
+}
+
+h2{
+  margin-left: 90px;
+  font-size: 3rem;
+}
+
